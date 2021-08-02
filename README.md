@@ -1,6 +1,8 @@
 # frenzy_social_app
 The UI code of FRENZY social app.
 
+![alt_text](https://github.com/algonacci/frenzy_social_app/blob/main/assets/images/thumbnail%20frenzy.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
